@@ -6,7 +6,10 @@ Works on Windows only
 * download the AutoIt editor from https://www.autoitscript.com/site/autoit/downloads/
 * rename config.dist.au3 to config.au3
 * edit the config.au3 file and update the contents with your information
-* edit the sample.csv file to replace token with the name of your custom field for the token
+* edit the sample.csv file to
+  * replace token with the name of your custom field for the token
+  * replace the email address with a valid email from one of your prospects
+  * add other entries you want to test with
 
 ## Run
 * edit the admin import prospect.au3 file with the AutoIt editor
